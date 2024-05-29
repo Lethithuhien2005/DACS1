@@ -1,0 +1,42 @@
+ID: BN01
+Name: Nguyen Thu Ha
+Gender: male
+Date of birth: 23-09-1995
+Address: Hue
+Phone: 1234567890
+ID room: T01
+Number bed: 3
+ID disease: RLNT
+ID doctor: BS07
+Day in: 19-07-2023
+Day out: 20-07-2023
+--------------------------------------------
+
+ID: BN02
+Name: Nguyen Minh Bao
+Gender: female
+Date of birth: 09-11-1986
+Address: Quang Tri
+Phone: 1234561234
+ID room: T02
+Number bed: 4
+ID disease: VTQ
+ID doctor: BS01
+Day in: 18-05-223
+Day out: 19-05-2023
+--------------------------------------------
+
+ID: BS03
+Name: Le Bao Nhat
+Gender: female
+Date of birth: 26-04-1976
+Address: Hue
+Phone: 1234123412
+ID room: T03
+Number bed: 3
+ID disease: STM
+ID doctor: BS08
+Day in: 12-07-2023
+Day out: 13-07-2023
+--------------------------------------------
+

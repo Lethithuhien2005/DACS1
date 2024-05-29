@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patientlist>
+   <patients>
+		<IdPatient> BN01 </IdPatient>
+		<Name> Nguyen Thu Ha </Name>
+		<Gender> male </Gender>
+		<Date_of_birth> 23-09-1995 </Date_of_birth>
+		<Address> Hue </Address>
+		<Phone> 1234567890 </Phone>
+		<IdRoom> T01 </IdRoom>
+		<num_bed> 3 </num_bed>
+		<IdDisease> RLNT </IdDisease>
+		<IdDoctor> BS07 </IdDoctor>
+		<DayIn> 19-07-2023 </DayIn>
+		<DayOut> 20-07-2023 </DayOut>
+	</patients>
+   <patients>
+		<IdPatient> BN02 </IdPatient>
+		<Name> Nguyen Minh Bao </Name>
+		<Gender> female </Gender>
+		<Date_of_birth> 09-11-1986 </Date_of_birth>
+		<Address> Quang Tri </Address>
+		<Phone> 1234561234 </Phone>
+		<IdRoom> T02 </IdRoom>
+		<num_bed> 4 </num_bed>
+		<IdDisease> VTQ </IdDisease>
+		<IdDoctor> BS01 </IdDoctor>
+		<DayIn> 18-05-223 </DayIn>
+		<DayOut> 19-05-2023 </DayOut>
+	</patients>
+   <patients>
+		<IdPatient> BS03 </IdPatient>
+		<Name> Le Bao Nhat </Name>
+		<Gender> female </Gender>
+		<Date_of_birth> 26-04-1976 </Date_of_birth>
+		<Address> Hue </Address>
+		<Phone> 1234123412 </Phone>
+		<IdRoom> T03 </IdRoom>
+		<num_bed> 3 </num_bed>
+		<IdDisease> STM </IdDisease>
+		<IdDoctor> BS08 </IdDoctor>
+		<DayIn> 12-07-2023 </DayIn>
+		<DayOut> 13-07-2023 </DayOut>
+	</patients>
+</patientlist>
